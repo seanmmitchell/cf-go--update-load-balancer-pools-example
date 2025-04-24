@@ -1,5 +1,5 @@
 # Cloudflare Go, Update Load Balancer Pools by Endpoint Name
-<SCREENSHOT HERE>
+![Screenshot 2025-04-24 at 6 48 42 PM](https://github.com/user-attachments/assets/8977eebf-2471-407e-84f0-1a487d5d0da8)
 
 This script offers the ability to list all endpoints or specific endpoints by their names within a given Cloudflare Account. It also offers the ability to update the Endpoint's status as to whether or not it is enabled.
 
